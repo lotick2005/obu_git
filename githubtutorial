@@ -8,5 +8,7 @@
 <body>
     <h1> Hello! </h1>
     <h2> Buy!</h2>
+    <h3> Это h3</h3>
+    <p> Это текст</p>
 </body>
 </html>
