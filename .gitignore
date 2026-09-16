@@ -1,0 +1,19 @@
+# Секреты и состояние — никогда не коммитим
+.env
+*.session
+*.session-journal
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Прочее
+.idea/
+.vscode/
