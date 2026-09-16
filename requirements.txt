@@ -1,4 +1,4 @@
-telethon
-google-genai
-pyyaml
-python-dotenv
+telethon==1.45.0
+google-genai==2.23.0
+PyYAML==6.0.3
+python-dotenv==1.2.3
